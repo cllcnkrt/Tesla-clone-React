@@ -1,0 +1,21 @@
+[debug] [2021-08-05T21:53:57.458Z] ----------------------------------------------------------------------
+[debug] [2021-08-05T21:53:57.461Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-05T21:53:57.461Z] CLI Version:   9.16.0
+[debug] [2021-08-05T21:53:57.462Z] Platform:      win32
+[debug] [2021-08-05T21:53:57.462Z] Node Version:  v14.17.4
+[debug] [2021-08-05T21:53:57.463Z] Time:          Fri Aug 06 2021 00:53:57 GMT+0300 (GMT+03:00)
+[debug] [2021-08-05T21:53:57.464Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-05T21:53:57.472Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-05T21:53:57.473Z] > authorizing via signed-in user (cllcnkrt@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Tutorials\React_Tutorials\tesla-clone-react
+
